@@ -7,7 +7,7 @@ Apache Spark Cluster with 1 master and 2 worker nodes. PySpark Jupyter Lab (pysp
 #### Once build is complete
     docker compose up
 
-#### Note:
+### Note:
 If you are running in issue with following error:
 
 `ln: failed to create symbolic link 'python': File Exists`
