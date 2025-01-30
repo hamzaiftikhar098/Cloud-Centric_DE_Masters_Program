@@ -1,7 +1,7 @@
 # Base Python 3.7.10 image
 FROM python:3.7-bullseye
 
-# Expose Port
+# Exposed Port
 EXPOSE 8888 4040
 
 # Change shell to /bin/bash
