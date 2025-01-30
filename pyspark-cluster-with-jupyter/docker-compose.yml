@@ -2,7 +2,7 @@ version: '3'
 services:
   bd-pyspark-jupyter:
     build: ../pyspark-jupyter-lab-old
-    image: Cloud-Centric_DE_Masters_Program/pyspark-jupyter-lab-old
+    image: Cloud-Centric_BDE_Masters_Program/pyspark-jupyter-lab-old
     container_name: pyspark-jupyter-lab-old
     ports:
         - 8888:8888
