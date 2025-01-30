@@ -1,4 +1,4 @@
-# Base Python 3.10 image
+# Base Python 3.10 image to be built
 FROM python:3.10-bullseye
 
 # Expose Port
