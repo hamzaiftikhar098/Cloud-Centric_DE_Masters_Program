@@ -1,7 +1,7 @@
 # PySpark Jupyter Lab Notebook - Python v3.10
 
 Jupyter Lab Notebook with root access.
-EaseWithApacheSpark notebooks provided to start with.
+Cloud-Centric_Big_DE_Masters_Program notebooks provided to start with.
 
 ### To build image from the Dockerfile:
     docker build --tag Cloud-Centric_Big_DE_Masters_Program/pyspark-jupyter-lab .
