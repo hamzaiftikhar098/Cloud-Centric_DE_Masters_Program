@@ -11,6 +11,7 @@ services:
       POSTGRES_USER: sqlpad
       POSTGRES_PASSWORD: sqlpad
 
+
   sqlpad:
     image: sqlpad/sqlpad:5
     hostname: 'sqlpad'
