@@ -10,6 +10,7 @@ services:
       - "2181:2181"
 
 
+
   cf-kafka-1:
     image: confluentinc/cp-kafka:latest
     ports:
